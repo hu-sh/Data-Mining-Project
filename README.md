@@ -1,5 +1,5 @@
 # Italian Rap Songs: Data Mining and Predictive Analysis
-
+This project was developed as a collaborative effort by a team of three students (Tommaso Dossi, Davide Petillo, and Valerio Stancanelli) for the Data Mining course at the University of Pisa.
 This project explores the Italian Rap and Trap scene through Data Mining and Machine Learning, focusing on audio features and lyrical content to perform clustering and regional classification.
 
 ## Key Contributions
